@@ -29,7 +29,7 @@ ElevatorBot is mostly written in Python using [N.A.F.F](https://github.com/Disco
 
 
 ## Features
--[x] Clan Management (Invite / Kick)
+-[x] Clan Management (Invite / Kick) 
 -[x] LFG System with calendar integration
 -[x] LFG supportive features like a context menu to receive bungie names
 -[x] Deeply customisable achievement roles
